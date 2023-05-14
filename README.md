@@ -1,4 +1,4 @@
-<div align="center">![Header](https://github.com/Inna-Mykytiuk/Inna-Mykytiuk/blob/main/assets/hobbit.jpg)</div>
+![Header](https://github.com/Inna-Mykytiuk/Inna-Mykytiuk/blob/main/assets/hobbit.jpg)
 
 ### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf. This is my unexpected journey.👨‍💻🚀</div>  
   
