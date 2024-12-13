@@ -3,16 +3,20 @@
 ### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf. This is my unexpected journey.👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning React, Next.js and others libraries and frameworks
+- ⭐ I’m currently learning React, Next.js and others libraries and frameworks
   
 
-- I want to improve my skills🤳  
+- 💪 I want to improve my skills  
   
 
 - ⚡ I am interested in the latest technologies and design  
   
 
 <br/>  
+
+<div align="center">
+<a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111734415/views/day-week-month-total-count.svg"></a>
+</div>
 
 
 ## My Skill Set  
