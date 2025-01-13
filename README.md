@@ -18,14 +18,9 @@
 
 <br/>  
 
-<div align="center">
-<a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111652513/views/day-week-month-total-count.svg"></a>
-</div>
-
 
 ## <div align="center">My Skill Set</div>  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### <div align="center">Frontend</div> 
@@ -87,6 +82,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 </div>  
+
+<div align="center">
+<a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111652513/views/day-week-month-total-count.svg"></a>
+</div>
   
 
 <br/>  
