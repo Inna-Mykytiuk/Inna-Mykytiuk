@@ -37,7 +37,7 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-<table><tr><td valign="left" width="33%">
+<table><tr><td width="33%">
 
 <br/>  
 
@@ -56,7 +56,7 @@
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 </div>
 
-<table><tr><td valign="center" width="33%">
+<table><tr><td width="33%">
 
 <br/>  
 
