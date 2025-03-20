@@ -4,7 +4,8 @@
 </div>  
 
 
-### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf. This is my unexpected journey.👨‍💻🚀</div>  
+### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>  
+### <div align="center">This is my unexpected journey.👨‍💻🚀</div>  
   
 
 - ⭐ I’m currently learning React, Next.js and others libraries and frameworks
