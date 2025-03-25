@@ -6,6 +6,10 @@
 
 ### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>  
 ### <div align="center">This is my unexpected journey.👨‍💻🚀</div>  
+
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=300&color=527676&width=435&lines=I+am+a+creative+person...;who+knows+no+limits+to+improvement.)](https://git.io/typing-svg)
+</p>
   
 
 - ⭐ I’m currently learning React, Next.js and others libraries and frameworks
