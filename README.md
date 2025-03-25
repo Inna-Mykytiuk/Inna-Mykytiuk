@@ -10,7 +10,7 @@
 <br/> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer%20|%20Learning%20Mobile%20Development;%2B1%20years%20of%20hands-on%20experience;&center=true&width=800&height=45](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=300&color=527676&width=435&lines=I+am+a+creative+person...;who+knows+no+limits+to+improvement.">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer%20|%20Learning%20Mobile%20Development;%2B1%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 <br/> 
