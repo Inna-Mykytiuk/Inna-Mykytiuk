@@ -1,22 +1,23 @@
-
 <div align="center">
   <img src="https://github.com/Inna-Mykytiuk/Inna-Mykytiuk/blob/main/assets/hobbit.jpg" align="center" />
 </div>  
+<!-- <div align="center">
+  <video src="./smoke.mp4" autoplay muted loop></video>
+</div>   -->
 
+### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>
 
-### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>  
-### <div align="center">This is my unexpected journey.👨‍💻🚀</div>  
+### <div align="center">This is my unexpected journey.👨‍💻🚀</div>
 
-<br/> 
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=75BBD2&width=435&lines=I+am+a+creative+person...;who+knows+no+limits+to+improvement.">
 </p>
 
-<br/> 
+<br/>
 
-
-## <div align="center">My Skill Set</div>  
+## <div align="center">My Skill Set</div>
 
 <table><tr>
   <td width="33%" valign="top">
@@ -58,12 +59,12 @@
       <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
     </div>
   </td>
-</tr></table>  
+</tr></table>
 
 <br/>
 
+## <div align="center">Connect with me</div>
 
-## <div align="center">Connect with me</div>  
 <div align="center">
 <a href="https://github.com/Inna-Mykytiuk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,20 +72,20 @@
 <a href="https://www.linkedin.com/in/inna-mykytiuk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-</div>  
+</div>
 
 <div align="center">
 <a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111652513/views/day-week-month-total-count.svg"></a>
 </div>
-  
-
-<br/>  
 
 
-## <div align="center">Github Stats</div>  
+<br/>
+
+## <div align="center">Github Stats</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inna-Mykytiuk&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inna-Mykytiuk&layout=compact" align="center" />
-</div>   
+</div>
 
-<br/>  
+<br/>
