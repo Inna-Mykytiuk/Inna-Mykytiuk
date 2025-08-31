@@ -59,7 +59,7 @@
 
 <br/>
 
-<div align="center">Connect with me</div>
+<div align="center"><h2>Connect with me</h2></div>
 
 <div align="center">
 <a href="https://github.com/Inna-Mykytiuk" target="_blank">
@@ -76,7 +76,7 @@
 
 <br/>
 
-<div align="center">Github Stats</div>
+<div align="center"><h2>Github Stats</h2></div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inna-Mykytiuk&show_icons=true&count_private=true&hide_border=true" align="center" />
