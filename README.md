@@ -9,7 +9,8 @@
 
 <div align="center">
   
-### I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️
+### I am a little hobbit in this turbulent world of Frontend, 
+### but in time I will surely become Gandalf🧙‍♂️
 
 </div>
 
