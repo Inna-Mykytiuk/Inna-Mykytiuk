@@ -84,10 +84,6 @@
 </a> 
 </div>
 
-<div align="center">
-<a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111652513/views/day-week-month-total-count.svg"></a>
-</div>
-
 <br/>
 
 <div align="center"><h2>Github Stats</h2></div>
@@ -95,6 +91,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inna-Mykytiuk&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inna-Mykytiuk&layout=compact" align="center" />
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://u8views.com/github/Inna-Mykytiuk"><img src="https://u8views.com/api/v1/github/profiles/111652513/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br/>
