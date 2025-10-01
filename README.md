@@ -69,7 +69,11 @@
 
 <br/>
 
-<div align="center"><h2>Connect with me</h2></div>
+<div align="center">
+
+### Connect with me
+  
+</div>
 
 <div align="center">
 <a href="https://github.com/Inna-Mykytiuk" target="_blank">
