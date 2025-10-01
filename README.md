@@ -2,7 +2,7 @@
   <img src="https://github.com/Inna-Mykytiuk/Inna-Mykytiuk/blob/main/assets/hobbit.jpg" align="center" />
 </div>
 
-### <div align="center">Now I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>
+### <div align="center">I am a little hobbit in this turbulent world of Frontend, but in time I will surely become Gandalf🧙‍♂️</div>
 
 ### <div align="center">This is my unexpected journey.👨‍💻🚀</div>
 
