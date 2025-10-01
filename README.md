@@ -2,7 +2,9 @@
   <img src="https://github.com/Inna-Mykytiuk/Inna-Mykytiuk/blob/main/assets/hobbit.jpg" align="center" />
 </div>
 <div align="center">
+  
 ### Frontend Dev | 2+ years
+
 </div>
 
 <div align="center">
